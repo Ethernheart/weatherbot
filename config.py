@@ -1,0 +1,3 @@
+open_weather_token = 'db12a5ecb8a7b76396badc5526700d89'
+tg_bot_token = '5892498971:AAE3-_Sf8IVtXqneq6Ixm6bJgFrD1XaqfSI'
+google_search_token = "3c4d382ff19081cdec8bfaae3aefe903f4aeb8ea3392fd8db87c2c7cdbbd7e5a"
